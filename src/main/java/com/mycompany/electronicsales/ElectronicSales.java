@@ -4,7 +4,7 @@
 
 package com.mycompany.electronicsales;
 
-
+//
 public class ElectronicSales {
 
     public static void main(String[] args) {
